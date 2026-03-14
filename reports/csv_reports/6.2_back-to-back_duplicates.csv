@@ -1,0 +1,2 @@
+check_name,issue_count,description,severity
+6.2 Back-to-Back Duplicates,0,Same patient with identical service dates,Medium

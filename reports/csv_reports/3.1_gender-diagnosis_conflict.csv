@@ -1,0 +1,6 @@
+check_name,issue_count,description,severity
+3.1 Gender-Diagnosis Conflict,10,Male patients with pregnancy/delivery codes,High
+3.2 Age-Inappropriate Service,8,Patients receiving services inappropriate for age,Medium
+3.3 Future Dates,4,Claims with service dates in the future,Critical
+3.4 Date Logic Errors,4,Service end date before start date,High
+3.5 Missing Critical Fields,6,Records missing required fields,Medium

@@ -1,0 +1,2 @@
+patients_count,providers_count,claims_count,claim_lines_count,min_claim_date,max_claim_date,total_billed,total_paid,avg_claim,denied_count,paid_count,total_issues,quality_score
+50,15,100,326,2025-03-16,2026-12-09,738626.66,124208.57,7386.2666,16.0,17.0,157.0,0

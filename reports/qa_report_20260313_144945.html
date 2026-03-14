@@ -1,0 +1,126 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Healthcare Data Quality Report</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+                .header { background-color: #2c3e50; color: white; padding: 20px; border-radius: 5px; }
+                .summary { background-color: white; padding: 20px; margin: 20px 0; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+                .critical { background-color: #ffebee; border-left: 5px solid #c62828; padding: 10px; margin: 10px 0; }
+                .high { background-color: #fff3e0; border-left: 5px solid #ef6c00; padding: 10px; margin: 10px 0; }
+                .medium { background-color: #fff9c4; border-left: 5px solid #fbc02d; padding: 10px; margin: 10px 0; }
+                .low { background-color: #e8f5e8; border-left: 5px solid #2e7d32; padding: 10px; margin: 10px 0; }
+                table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+                th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+                th { background-color: #2c3e50; color: white; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .metric { display: inline-block; width: 200px; margin: 10px; padding: 15px; background: white; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+                .metric-value { font-size: 24px; font-weight: bold; color: #2c3e50; }
+                .metric-label { color: #7f8c8d; }
+                .quality-score { font-size: 48px; font-weight: bold; color: #27ae60; }
+                img { max-width: 100%; height: auto; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>Healthcare Claims Data Quality Report</h1>
+                <p>Generated on: 2026-03-13 14:49:45</p>
+            </div>
+            
+            <div class="summary">
+                <h2>Executive Summary</h2>
+                <div style="text-align: center;">
+                    <div class="metric">
+                        <div class="metric-value">100</div>
+                        <div class="metric-label">Total Claims</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">50</div>
+                        <div class="metric-label">Total Patients</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">$738,626.66</div>
+                        <div class="metric-label">Total Billed</div>
+                    </div>
+                    <div class="metric">
+                        <div class="quality-score">0%</div>
+                        <div class="metric-label">Data Quality Score</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="summary">
+                <h2>Critical Issues Found</h2>
+        
+                <div class="critical">
+                    <h3>1.1 Orphaned Claims</h3>
+                    <p><strong>Issue Count:</strong> 12</p>
+                    <p><strong>Severity:</strong> Critical</p>
+                    <p><strong>Action Required:</strong> Immediate investigation required</p>
+                </div>
+                <h2>High Severity Issues</h2>
+                <div class="high">
+                    <h3>2.1 Claim Total Mismatch</h3>
+                    <p><strong>Issue Count:</strong> 113.0</p>
+                    <p><strong>Severity:</strong> High</p>
+                </div>
+                
+                <div class="high">
+                    <h3>3.1 Gender-Diagnosis Conflict</h3>
+                    <p><strong>Issue Count:</strong> 32</p>
+                    <p><strong>Severity:</strong> High</p>
+                </div>
+                
+            </div>
+            
+            <div class="summary">
+                <h2>Data Quality Visualizations</h2>
+                <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div style="margin: 10px;"><img src="issues_by_severity.png" alt="issues_by_severity.png" style="max-width: 500px;"></div><div style="margin: 10px;"><img src="claims_status.png" alt="claims_status.png" style="max-width: 500px;"></div><div style="margin: 10px;"><img src="monthly_trends.png" alt="monthly_trends.png" style="max-width: 500px;"></div>
+                </div>
+            </div>
+            
+            <div class="summary">
+                <h2>Detailed Issue List</h2>
+                <table>
+                    <tr>
+                        <th>Check Name</th>
+                        <th>Issue Count</th>
+                        <th>Severity</th>
+                    </tr>
+        
+                    <tr>
+                        <td>1.1 Orphaned Claims</td>
+                        <td>12</td>
+                        <td>Critical</td>
+                    </tr>
+            
+                    <tr>
+                        <td>2.1 Claim Total Mismatch</td>
+                        <td>113.0</td>
+                        <td>High</td>
+                    </tr>
+            
+                    <tr>
+                        <td>3.1 Gender-Diagnosis Conflict</td>
+                        <td>32</td>
+                        <td>High</td>
+                    </tr>
+            
+                </table>
+            </div>
+            
+            <div class="summary">
+                <h2>Recommendations</h2>
+                <ul>
+        <li>⚠️ Critical issues found - Stop data processing until resolved</li><li>🔗 Fix referential integrity issues in claims data</li>
+                </ul>
+            </div>
+            
+            <div class="summary">
+                <p><em>This report was automatically generated by the Data QA Automation Framework.</em></p>
+            </div>
+        </body>
+        </html>
+        

@@ -1,0 +1,4 @@
+check_name,issue_count,description,severity
+1.1 Orphaned Claims,5,Claims without valid patient references,Critical
+1.2 Orphaned Claim Lines,0,Claim lines without valid claim references,Critical
+1.3 Invalid Providers,7,Claims with invalid provider references,High

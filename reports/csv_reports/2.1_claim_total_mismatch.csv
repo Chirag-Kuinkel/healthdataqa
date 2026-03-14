@@ -1,0 +1,5 @@
+check_name,issue_count,description,severity
+2.1 Claim Total Mismatch,100.0,Claim header amount does not match sum of line items,High
+2.2 Duplicate Claims,,Multiple claims with same claim number,High
+2.3 Line Calculation Errors,8.0,Line total does not equal units * unit price,Medium
+2.4 Negative Amounts,5.0,Records with negative monetary values,High

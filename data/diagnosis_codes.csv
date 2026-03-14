@@ -1,0 +1,11 @@
+code,description,category,is_chronic
+I10,Essential Hypertension,Circulatory,True
+E11.9,Type 2 Diabetes,Endocrine,True
+J45.909,Asthma,Respiratory,True
+M54.5,Low Back Pain,Musculoskeletal,False
+J20.9,Acute Bronchitis,Respiratory,False
+N39.0,UTI,Urinary,False
+Z00.00,General Exam,Preventive,False
+O20.0,Threatened Abortion,Pregnancy,False
+S72.0,Femur Fracture,Injury,False
+F41.9,Anxiety,Mental Health,True

@@ -1,0 +1,11 @@
+code,description,typical_cost
+99213,Office Visit,150.0
+99214,Office Visit,200.0
+99221,Hospital Care,300.0
+97110,Physical Therapy,100.0
+93000,EKG,150.0
+80048,Basic Metabolic Panel,50.0
+80053,Comprehensive Metabolic Panel,100.0
+27447,Total Knee Replacement,5000.0
+59400,Obstetric Care,2000.0
+J3490,Prescription Drug,50.0

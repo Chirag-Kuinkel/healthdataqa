@@ -1,0 +1,16 @@
+provider_id,provider_name,provider_type,npi_number,tax_id,address,city,state,zip_code,phone,email,specialty,is_active
+1,Dr. Jenkins,Hospital,,08-4840862,"233 Ochoa Grove, Millerfurt, NH 74556",Lake Jeremiah,TX,11067,+1-801-766-6870x0217,jacobsonsamantha@example.org,Emergency Medicine,True
+2,Valenzuela Ltd,Individual,3361388464,97-4014890,"39261 Martin Garden Suite 856, Port Vanessa, VA 10780",Brianchester,IN,10464,899-496-5047x73586,nmiller@example.com,Oncology,True
+3,Marquez Inc,Individual,3962958940,42-6265511,"5412 Jacob Mission Suite 101, Angelamouth, VI 50994",West Robertland,VA,73840,698.926.2244,bryanhamilton@example.com,Neurology,True
+4,Dr. Evans,Hospital,7517938612,15-4379937,"65965 Cook Via Apt. 459, South Leon, MO 42331",Jessicafort,OK,32276,564-965-1939x82807,marie16@example.net,Pediatrics,True
+5,Taylor-Turner,Hospital,1945826486,42-6617979,"058 Daniel Gateway Suite 290, Rasmussenmouth, WY 56921",North Coreybury,NY,98392,989.393.7567x98250,robert11@example.net,Cardiology,True
+6,Bailey LLC,Individual,4888749350,73-8757177,"10512 Zachary Plaza Apt. 586, Hallfurt, SC 24677",Lake Diane,MO,04327,001-393-479-6603x3419,mark71@example.com,,True
+7,Dr. Lambert,Clinic,8168204967,78-5969691,"249 Emily Island Apt. 341, West Heather, NY 51417",Carlsonshire,MS,55949,(478)728-2742,wharvey@example.org,Radiology,True
+8,Taylor-Ochoa,Hospital,2748309234,88-7676772,"40438 Jackson Mount, Dunnville, OK 15470",Kimberlystad,ND,99694,9786361340,michelle17@example.org,,True
+9,Clark Ltd,Pharmacy,7114223633,95-9629233,"498 Mario Squares Suite 494, East Sydneychester, PW 08271",Michelleberg,UT,17893,825.836.7294,yjones@example.org,Cardiology,True
+10,Dr. Powell,Pharmacy,1422701550,45-7759017,"86363 Adams Village Suite 589, New Melissa, WY 45555",North Corymouth,AK,16785,(677)306-3242,john52@example.org,Pediatrics,True
+11,Garrett-Barber,Pharmacy,2926780541,36-1103712,"05162 Jones Lights Apt. 115, Nicoleberg, MS 99218",Lake Victoria,FL,09467,390.492.7532x69731,lawrencepatrick@example.com,,True
+12,Moody-Wright,Lab,5618742930,13-8999404,"640 Troy Creek, South Danielle, CA 69744",West Sarahberg,MS,74999,(858)627-1091x04300,zhenderson@example.org,,True
+13,Dr. Davidson,Pharmacy,2015242176,89-2414183,"Unit 2856 Box 9146, DPO AP 31779",East Christopherchester,DE,59925,+1-690-442-1020x275,david41@example.org,Dermatology,True
+14,Roman-Nelson,Clinic,4875962612,14-9177850,"2419 Jeremy Pass, North Micheletown, IA 06527",Coxberg,HI,05136,+1-763-353-6541,whitelinda@example.org,Oncology,True
+15,Jones-Marshall,Pharmacy,7249213370,44-5187053,"937 Vargas Park Apt. 832, South Andrewside, MI 83855",West Aaronfurt,PR,97242,001-541-838-3670x2410,stephen19@example.org,Emergency Medicine,True

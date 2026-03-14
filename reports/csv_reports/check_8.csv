@@ -1,0 +1,16 @@
+provider_name,provider_type,total_claims,total_billed,total_paid,payment_rate,denial_count
+Marquez Inc,Individual,10,78919.39,21241.85,90.23,0
+Taylor-Ochoa,Hospital,8,77283.81,22276.24,85.9,0
+Valenzuela Ltd,Individual,7,71853.97,,,2
+Bailey LLC,Individual,7,65554.91,,,3
+Roman-Nelson,Clinic,9,63216.27,14739.69,95.0,0
+Garrett-Barber,Pharmacy,7,62298.46,20365.8,79.38,3
+Moody-Wright,Lab,7,44063.74,3751.77,81.07,1
+Taylor-Turner,Hospital,7,43364.29,,,2
+Dr. Evans,Hospital,7,38395.82,12882.9,72.41,1
+Clark Ltd,Pharmacy,4,33513.95,10694.55,96.93,0
+Dr. Lambert,Clinic,5,33205.46,,,1
+Dr. Davidson,Pharmacy,4,31465.75,4345.19,81.99,1
+Dr. Jenkins,Hospital,3,30060.22,4269.37,71.64,0
+Jones-Marshall,Pharmacy,3,25963.52,9641.21,71.08,0
+Dr. Powell,Pharmacy,5,2456.34,,,1

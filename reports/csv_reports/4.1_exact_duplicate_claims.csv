@@ -1,0 +1,3 @@
+check_name,issue_count,description,severity
+4.1 Exact Duplicate Claims,0,Identical claims submitted multiple times,Medium
+4.2 Duplicate Patients,0,Patients with same name and DOB,Medium
